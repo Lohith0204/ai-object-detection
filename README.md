@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (Add your Streamlit URL here once deployed)
+🚀 **Streamlit App (Huggingface)** → https://huggingface.co/spaces/lohith0204/ai-object-detection-yolo
 
 ## Overview
 AI Object Detection System is a Python-based computer vision application that detects and identifies multiple objects present in an image using a pre-trained YOLO (You Only Look Once) model.
